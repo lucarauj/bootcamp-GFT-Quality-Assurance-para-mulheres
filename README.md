@@ -40,9 +40,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Dominando Algoritmos Básicos com Desafios de Código Java
 
-- A Fila Do Banco [Ver aqui](./src/dominando/algoritmos/basicos/OsNumerosSaoIguais.java)
-- Descubra O Menor Multiplo [Ver aqui](./src/dominando/algoritmos/basicos/SomandoMultiplos.java)
-- Encontrando O Percentual De Desconto [Ver aqui](./src/dominando/algoritmos/basicos/UmaChamadaRecursiva.java)
+- A Fila Do Banco [Ver aqui](./src/dio/me/dominando/algoritmos/basicos/OsNumerosSaoIguais.java)
+- Descubra O Menor Multiplo [Ver aqui](./src/dio/me/dominando/algoritmos/basicos/SomandoMultiplos.java)
+- Encontrando O Percentual De Desconto [Ver aqui](./src/dio/me/dominando/algoritmos/basicos/UmaChamadaRecursiva.java)
 - Media De Idade [Ver aqui](./src/dio/me/dominandoAlgaritmosBasicosComDesafiosdeCodigoJava/MediaDeIdade.java)
 - Qual Eh O Seu Turno [Ver aqui](./src/dio/me/dominandoAlgaritmosBasicosComDesafiosdeCodigoJava/QualEhOSeuTurno.java)
 
