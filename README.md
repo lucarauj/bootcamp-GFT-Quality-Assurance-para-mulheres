@@ -22,19 +22,18 @@ Com o objetivo de ensinar e graduar até mesmo quem nunca viu nada sobre o assun
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- <img align="center" alt="Lucarauj-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-- <img align="center" alt="Lucarauj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-- <img align="center" alt="Lucarauj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-- <img align="center" alt="Lucarauj-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-- <img align="center" alt="Lucarauj-Swagger" height="30" width="90" src="https://github.com/lucarauj/assets/blob/main/Swagger.png">
-- <img align="center" alt="Lucarauj-Postman" height="50" width="90" src="https://github.com/lucarauj/assets/blob/main/postman.png">
-- <img align="center" alt="Lucarauj-Mockito" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/mockito.png">
-- <img align="center" alt="Lucarauj-Selenium" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/SeleniumWebDriver.png"/>
-- <img align="center" alt="Lucarauj-Allure" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/AllureReport.jpg"/>
-- <img align="center" alt="Lucarauj-Maven" height="50" width="60" src="https://github.com/lucarauj/assets/blob/main/Maven-Apache.svg">
-
----
+<div style="display: inline_block"><br>
+<img align="center" alt="Lucarauj-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Lucarauj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Lucarauj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Lucarauj-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Lucarauj-Swagger" height="30" width="90" src="https://github.com/lucarauj/assets/blob/main/Swagger.png">
+<img align="center" alt="Lucarauj-Postman" height="50" width="90" src="https://github.com/lucarauj/assets/blob/main/postman.png">
+<img align="center" alt="Lucarauj-Mockito" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/mockito.png">
+<img align="center" alt="Lucarauj-Selenium" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/SeleniumWebDriver.png"/>
+<img align="center" alt="Lucarauj-Allure" height="40" width="90" src="https://github.com/lucarauj/assets/blob/main/AllureReport.jpg"/>
+<img align="center" alt="Lucarauj-Maven" height="50" width="60" src="https://github.com/lucarauj/assets/blob/main/Maven-Apache.svg">
+</div>
 
 ## ⚔ Lista dos Desafios
 
